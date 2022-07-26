@@ -1,0 +1,13 @@
+1. Instalar o xampp e iniciar o Apache ( de preferência padrão na porta 8080 ) e o MySQL.
+
+2. Deposite toda a pasta 'empresa' na pasta htdocs do xampp.
+
+3. Digita "localhost:80" no navegador e em seguida phpmyadmin
+
+4. Lá você cria um novo banco chamado 'pessoas' e depois que criar, você vai importar o arquivo 'pessoas.sql' que tá na pasta 'empresa'.
+
+5. O arquivo 'pessoa' é um arquivo sql, é uma tabela de dados já criada por mim.
+
+6. Importe para a aplicação poder puxar os dados que você for cadastrar.
+
+7. Digite localhost/empresa e pronto.
